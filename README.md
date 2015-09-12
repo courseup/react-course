@@ -1,1 +1,1 @@
-# sails-course
+# react-course
